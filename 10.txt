@@ -1,2 +1,3 @@
 hello Mister_yr
 add file in stash mode
+stash #5
