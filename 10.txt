@@ -1,2 +1,6 @@
 hello Mister_yr
+<<<<<<< Updated upstream
 hello #3
+=======
+add file in stash mode
+>>>>>>> Stashed changes
