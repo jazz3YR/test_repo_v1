@@ -1,6 +1,7 @@
 hello Mister_yr
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 add file in stash mode
 stash #5
 =======
@@ -10,3 +11,6 @@ test git stash
 test git stash
 >>>>>>> Stashed changes
 # test comment
+=======
+test git stash
+>>>>>>> Stashed changes
